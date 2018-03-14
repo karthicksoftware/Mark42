@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 111.316 sec <<< FAILURE! - in TestSuite
+method3(com.qa.mark42.testscripts.HomePage_TestScripts)  Time elapsed: 0.085 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Page title doesn't matched
+	at com.qa.mark42.testscripts.HomePage_TestScripts.method3(HomePage_TestScripts.java:43)
+
